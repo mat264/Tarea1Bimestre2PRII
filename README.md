@@ -6,6 +6,8 @@
 
 # Fecha: 23/12/2025
 
-Cracion de diagrmas de clase utilizando conceptos de composición y agregación
+Creación de diagramas de clase utilizando conceptos de composición y agregación
 
 # Link del repositorio:
+
+https://github.com/mat264/Tarea1Bimestre2PRII
